@@ -1,20 +1,21 @@
 # MoreExercises-CSharp-Fundamentals
-Additional tasks from the C# Fundamentals module of the Software University:
 
-1 - Basic Syntax, Conditional Statements and Loops
+**Additional tasks from the C# Fundamentals module of the Software University:**
 
-2 - Data Types and Variables
+1. Basic Syntax, Conditional Statements and Loops
 
-3 - Arrays
+2. Data Types and Variables
 
-4 - Methods
+3. Arrays
 
-5 - List
+4. Methods
 
-6 - Objects and Classes
+5. List
 
-7 - Associative Arrays
+6. Objects and Classes
 
-8 - Text Processing
+7. Associative Arrays
 
-9 - Regular Expressions
+8. Text Processing
+
+9. Regular Expressions
