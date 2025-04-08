@@ -63,3 +63,5 @@ Generated_Code/
 
 # macOS system files
 .DS_Store
+
+*.DotSettings.user
